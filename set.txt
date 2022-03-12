@@ -1,5 +1,5 @@
 {
-    "url": "stratums://`0x31f88F1B00A406B1c9Ef21c13C53dc9b43Fd61Ca`.BecnaG@eu1-etc.ethermine.org:5555",
+    "url": "stratums://`0x31f88F1B00A406B1c9Ef21c13C53dc9b43Fd61Ca`.BecnaG@etc.2miners.com:11010",
     "algo": "etchash",
     "max-gpu": 40,
     "idle-wait": 1,
